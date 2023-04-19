@@ -67,3 +67,4 @@ while True:
     choice = input("Vai vēlaties turpināt? (jā/nē): ")
     if choice.lower() != "jā":
         break
+    .

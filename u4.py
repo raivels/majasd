@@ -45,3 +45,4 @@ class Student:
             print(f"{self.name} is graduating!")
         else:
             print(f"{self.name} needs to improve their GPA.")
+            .
